@@ -65,3 +65,13 @@ input[placeholder] {
   -webkit-font-smoothing: antialiased;
 }
 
+.btn{
+  color: white;
+  background-color:#583399 ;
+  border: 1px;
+}
+
+.btn:hover {
+  color: white;
+background-color: #673ab7;
+}
