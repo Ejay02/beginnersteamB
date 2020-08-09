@@ -40,6 +40,23 @@ input[placeholder] {
 .form-check-label {
   margin-left: 10px;
 }
+.monitor-bar{
+ 
+  display: flex;
+  flex-wrap: wrap;
+  float: right;
+}
+.green-bar{
+  width: 300px;
+  height: 10px;
+  padding: 1px;
+  margin-top: 10px;
+  background-color: green;
+  border-radius: 25px;
+}
+.monitor-bar span{
+  margin: 5px;
+}
 .footer{
   font-family: Roboto,Arial,sans-serif;
     font-size: 10px;
