@@ -11,7 +11,7 @@ CONTRIBUTORS:
 
 NAME                        SLACK ID                 eMail
 
-Ejiro Ejakpovi                @Ej                  dreamydamsel2000@yahoo.com
+Ej Ejakpovi                @Ej                  dreamydamsel2000@yahoo.com
 
 Edun Elijah                   @Elijah              edunelijah18@gmail.com
 
